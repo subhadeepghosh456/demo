@@ -1,0 +1,21 @@
+.image-container {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.real_img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.user-card {
+  padding-inline: 35px;
+}
+.inner_card {
+  display: flex;
+
+  padding-block: 15px;
+  border-bottom: 1px solid rgb(212, 205, 205);
+}

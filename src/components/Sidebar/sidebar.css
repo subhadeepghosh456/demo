@@ -1,0 +1,10 @@
+.side_bar {
+  height: 90vh;
+  width: 200px;
+  background-color: blue;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-inline: 20px;
+}
